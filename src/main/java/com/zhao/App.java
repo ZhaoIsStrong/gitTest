@@ -16,7 +16,7 @@ public class App
         System.out.println("master test");
 
         System.out.println("hotfix");
-        System.out.println("hotfix test");
+        System.out.println("push test");
 
     }
 
